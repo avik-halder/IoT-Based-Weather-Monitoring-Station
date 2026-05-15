@@ -16,7 +16,7 @@ The IoT-Based Weather Monitoring System is designed to collect real-time weather
 - **DHT11 Sensor**: Measures temperature and humidity
 - **Rain Sensor**: Measures rainfall
 - **Nodemcu (ESP8266)**: Microcontroller for data processing and transmission
-- **LCD Display**: For local data display
+- **LCD Display**: For local data display.
 
 ## Setup Instructions
 1. **Hardware Setup**:
