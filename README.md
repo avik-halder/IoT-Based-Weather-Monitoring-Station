@@ -70,7 +70,7 @@ The IoT-Based Weather Monitoring System is designed to collect real-time weather
 ## Contributors
 - Avik Halder
 - Hrithik Das
-- Tasnim Mahmud Fahim
+- MD Tasnim Mahmud Fahim
 - Maliha Rahman Mitu
 - Jakaria Saikat Dhrobo 
 
