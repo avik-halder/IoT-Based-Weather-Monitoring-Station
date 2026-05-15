@@ -72,7 +72,7 @@ The IoT-Based Weather Monitoring System is designed to collect real-time weather
 - Hrithik Das
 - MD Tasnim Mahmud Fahim
 - Maliha Rahman Mitu
-- Jakaria Saikat Dhrobo 
+- Jakaria Saikat Dhrobo
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
